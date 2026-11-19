@@ -180,14 +180,6 @@ Manufacturer (1) ─── (many) VehicleModel (1) ─── (many) Car
 
 The API also supports retrieving individual manufacturers, models, and cars by ID.
 
-## Screenshots
-
-Add real screenshots from your running application to a `screenshots/` folder, then uncomment these lines:
-
-<!-- ![Car catalog](screenshots/catalog.png) -->
-<!-- ![Manufacturers](screenshots/manufacturers.png) -->
-<!-- ![Vehicle models](screenshots/models.png) -->
-
 ## Notes
 
 - This is an academic project created for Laboratory Work 9.
