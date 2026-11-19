@@ -1,0 +1,35 @@
+# React / Node.js
+node_modules/
+dist/
+.vite/
+
+# Java / Spring Boot
+target/
+build/
+*.class
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# Local environment
+.env
+.env.*
+!.env.example
+
+# Database credentials
+application-local.properties
+application.properties
+
+# Uploaded images
+uploads/
+backend/uploads/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+*.log
